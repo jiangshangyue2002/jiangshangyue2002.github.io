@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d29e243-2a4b-421f-9f80-3d25c6029f86" name="更改" comment="Add files via upload" />
+    <list default="true" id="2d29e243-2a4b-421f-9f80-3d25c6029f86" name="更改" comment="Add files via upload">
+      <changelist_data name="jiangshangyue2002" email="1667336178@qq.com" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +16,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="jiangshangyue2002 &lt;1667336178@qq.com&gt;" />
         <option value="Keybye &lt;2295657647@qq.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/web/jiangshangyue2002.github.io/jiangshuangyue2002.github.io",
     "node.js.detected.package.eslint": "true",
@@ -55,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694265131070</updated>
       <workItem from="1694265132082" duration="1839000" />
-      <workItem from="1694267707752" duration="734000" />
+      <workItem from="1694267707752" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="Add files via upload">
       <option name="closed" value="true" />
@@ -65,7 +74,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694268443320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1694268496644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694268496644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1694269086770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269086770</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1694269122476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694269122476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
