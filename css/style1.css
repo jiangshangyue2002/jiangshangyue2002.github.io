@@ -1,0 +1,77 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.container-item{
+    width:1000px;
+    height: 1000px;
+    position: absolute;
+    left: 0;  right: 0%; top: 0; bottom: 0;
+    margin: auto;
+}
+.profile{
+    position: absolute;
+    width: 15%;
+    height: 15%;
+    background: url("../prof/bye.jpg") ;
+    background-size: 100% 100%;
+    border-radius: 20%;
+    margin: auto;
+    box-shadow:0px 0px 20px rgba(255,255,255,1);
+    left: 0;
+    right: 25%;
+    top: 0;
+    bottom: 0;
+}
+.hr{
+    width: 10px;
+    height: 8%;
+    position: absolute;
+    left: 0;  right: 0%; top: 0; bottom: 0;
+    margin: auto;
+    border-radius: 4px;
+    background: rgba(245,245,245,0.5);
+    backdrop-filter: blur(10px);
+
+}
+body{
+    background: url("../backgroud/bg.jpeg") no-repeat fixed;
+    background-size: cover;
+}
+.table{
+    color: rgba(245,245,245,0.9);
+    height: 15%;
+    width: 30%;
+    font-size: 15px;
+    background: rgba(192,192,192,0.1);
+    box-shadow:0px 0px 20px rgba(255,255,255,0.3);
+    border-radius: 12px;
+    padding: 10px;
+    backdrop-filter: blur(20px);
+    position: absolute;
+    left: 40%;  right: 0; top: 0; bottom: 0;
+    margin: auto;
+    text-align:left;
+}
+.icon-size{
+    height: 2%;
+    width: 2%;
+}
+.icon-bg{
+    height: 10%;
+    width: 10%;
+    background: rgba(80,80,80,0.1);
+    backdrop-filter: blur(20px);
+    border-radius: 20%;
+    border: none;
+    margin-top: 15px;
+}
+.icon-align{
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    position: absolute;
+    left: 65%;  right: 0; top: 14%; bottom: 0;
+    margin: auto;
+}
+
